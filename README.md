@@ -2,7 +2,7 @@
 
 Some useful Jupyter notebooks exploring different NLP tasks and use cases. Some of the
 notebooks have been published as blog posts on the Basement AI website
-[https://basement.ai/blog](https://basement.ai/blog).
+[https://talman.fi](https://talman.fi).
 
 ## Notebooks
 
